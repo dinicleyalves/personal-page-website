@@ -1,3 +1,7 @@
+/* 
+JS CONTENT
+**/
+
 var VanillaTilt = (function () {
 'use strict';
 

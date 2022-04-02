@@ -1,10 +1,14 @@
+/* 
+JS CONTENT
+**/
+
 const LinksSocialMedia = {
 
-  github: "dinicleyalves",
-  youtube: "dinicleyalves",
-  linkedin: "in/dinicleyalves",
-  instagram: "dinicleyalves",
-  twitch: "dinicleyalves"
+  github: "yourgit",
+  youtube: "youtubechanel",
+  linkedin: "in/yourlinkedin",
+  instagram: "yourinstagram",
+  twitch: "yourtwchit"
 }
 
 function changeSocialMediaLinks() {

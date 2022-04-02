@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Hi, I'm Dinicley Alves, a Developer 🚀 from Brazil.
-	Developer | Technology consultant | Computer teacher | Digital Entrepreneur | Passionate about everything that involves technology">
+  <meta name="description" content="Description Website">
   <meta name=”robots” content="index, follow">
 
-  <title> Dinicley Alves - Web Developer </title>
+  <title> Your title </title>
 
   <link rel="stylesheet" href="./css/style.css" />
   <link rel="stylesheet" href="./css/atropos.css" />
@@ -17,7 +15,6 @@
   <link rel='icon' href="https://img.icons8.com/ios-filled/50/000000/devpost.png" />
 
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 </head>
 
@@ -33,16 +30,16 @@
     <div class="container">
 
       <div class="avatar">
-        <img id="userImage" src="https://github.com/dinicleyalves.png" alt="Foto pessoal">
+        <img id="userImage" src="https://github.com/imagem.png" alt="Foto pessoal">
       </div>
 
-      <h1 id="userName"> Dinicley Alves </h1>
-      <a id="userLink" href="https://instagram.com/dinicleyalves" target="_blank">
+      <h1 id="userName"> You Name here</h1>
+      <a id="userLink" href="https://instagram.com/imagem" target="_blank">
         <img src="images/github.svg" alt="Ícone Github">
-        <div id="userLogin">dinicleyalves</div>
+        <div id="userLogin">name</div>
       </a>
 
-      <p id="userBio">Hi, I'm Dinicley Alves, a Developer 🚀 from Brazil.</p>
+      <p id="userBio">Your description</p>
 
       <ul id="socialLinks">
         <li class="youtube">
@@ -69,7 +66,6 @@
       </ul>
     </div>
   </main>
-
   <script src="./js/vanilla-tilt.js"></script>
   <script src="./js/main.js"> </script>
   <!-- WhatsApp Button -->

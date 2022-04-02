@@ -7,7 +7,7 @@
     <title>Page Not Found - 404 </title>
 </head>
 <body>
-    <!-- IMPLEMENTS PAGE 404 ERROR --> 
+    <!-- IMPLEMENTS PAGE 404 ERROR - USE THIS CREATIVIT --> 
     <p>Page not found </p>
     <h6><a href="./"> Back to home </a></h6>
 </body>
